@@ -8,6 +8,7 @@ I’m still learning, and sometimes it’s hard.
 But I’m trying my best, and every solution here is a small victory in my journey of understanding programming logic and problem-solving.  
 
 Each solution will have **comments explaining the flow and thought process**, so that anyone who sees it can understand not just the code, but also the **logic behind it**.  
+At this stage, I’m **not worrying about time or space complexity** — my goal is to get comfortable with coding and problem-solving.  
 
 ---
 

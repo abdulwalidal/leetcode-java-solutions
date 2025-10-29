@@ -5,8 +5,11 @@ Flow:
 3. If any pair sum equals the target → return those indices.
 4. If no pair matches, move to the next outer number.
 5. If no pair found at all → return empty array.
+leetcode question link
+https://leetcode.com/problems/two-sum
 */
 
+import java.util.Arrays;
 
 public class Solution {
 
@@ -29,7 +32,7 @@ public class Solution {
     
     public static void main(String[] args) {
      int[] nums = {2,7,11,15};
-     System.out.println(Arrays.toString(leetcodes.twoSum(nums, 13)));
+     System.out.println(Arrays.toString(Solution.twoSum(nums, 9)));
 
         
     
